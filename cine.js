@@ -1,5 +1,5 @@
-let edad= 15;
-let tienePermisoDePadres = true;
+let edad= 20;
+let tienePermisoDePadres = false;
 
 if (edad >= 18) {
     console.log('Puede pasar')
