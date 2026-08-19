@@ -1,3 +1,4 @@
-let nombreJuego = "World of Warcraft";
-let nivel = 80;
-console.log(`Mi personaje favorito juega en ${nombreJuego} y es nivel ${nivel}`);
+let equipo = ["Espada", "Escudo", "Poción"]
+equipo[1] = "Arco";
+equipo.push ("Antídoto")
+console.log(equipo);
