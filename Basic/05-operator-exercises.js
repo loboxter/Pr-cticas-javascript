@@ -48,3 +48,14 @@ console.log(!(Suma == Restando))
 
 //9-Utiliza el operador ternario.
 console.log(2 > 1 ? "Correcto" : "Incorrecto")
+
+//10-Combinar operadores aritmeticos, comparacion y asignación.
+Suma += verde + 2;
+console.log(Suma);
+
+Resta /= (rojo = 2);
+console.log(Restando);
+
+let puntaje = 10;
+puntaje += Sumando * 2;
+console.log(puntaje >20);
